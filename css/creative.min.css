@@ -485,6 +485,9 @@ img::-moz-selection {
     color: #fff;
     background: 0 0
 }
+.show img {
+    width: 85%;
+  }
 .show:hover{
     z-index: 99;
     transition: .5s all;
